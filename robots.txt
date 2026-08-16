@@ -1,0 +1,6 @@
+# Pindrop Entertainment
+User-agent: *
+Allow: /
+Disallow: /404.html
+
+Sitemap: https://pindropentertainment.com/sitemap.xml
